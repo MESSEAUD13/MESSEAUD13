@@ -1,6 +1,6 @@
 ## Hi, I’m Adrien Messeaud 👋
 
-I’m a Master’s student in Marine Biology at James Cook University (Australia) with a strong interest in marine conservation, ecology, geospatial analysis, and bioinformatics. My work combines field experience with computational tools to better understand and protect marine ecosystems.
+I’m a Master’s student in Marine Biology at James Cook University (Australia) with a strong interest in marine conservation, ecology, geospatial analysis, and megafauna. My work combines field experience with computational tools to better understand and protect marine ecosystems.
 
 About Me
 
